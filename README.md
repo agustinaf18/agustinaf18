@@ -33,7 +33,7 @@
        - SQLAlchemy
        - Flask	
 		
-🔭 Actualmente busco un trabajo:
+🔭 Actualmente busco un trabajo para:
 
         😀Tener un ingreso para mis estudios y conocer nuevos amigos.
         🤓Más y más inglés.
